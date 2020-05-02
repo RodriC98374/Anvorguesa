@@ -5,4 +5,8 @@
 
 `mayonesa`
 
+## Caractertistica 7 del release 2
+
+`ketchup`
+
 
