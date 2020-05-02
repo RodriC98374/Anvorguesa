@@ -18,4 +18,15 @@
 
 `mas carne`
 
+## Caractertistica 10 del release 2
+
+`queso`
+
+## Caractertistica 11 del release 2
+
+`tosino`
+
+## Caractertistica 12 del release 2
+
+`jamon`
 
