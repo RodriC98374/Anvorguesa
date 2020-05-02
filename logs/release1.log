@@ -1,0 +1,57 @@
+commit b2b16d3762a755176b08cff8ef42e43c1b746d4c
+Merge: 06098db 854614c
+Author: Rodrigo Cespedes <rodricesp.3.0@gmail.com>
+Date:   Fri May 1 22:56:13 2020 -0400
+
+    Merge branch 'features' into develop
+    Finalizado el desarrollo de las caracteristicas
+
+commit 854614cc511d3bb2ef0f838e62527170c406ed12
+Author: Rodrigo Cespedes <rodricesp.3.0@gmail.com>
+Date:   Fri May 1 22:50:05 2020 -0400
+
+    Commit de la caracteristica 5 release 1: El pepinillo de la anvorguesa
+
+commit b78cb42359cb294b30bc8e8982be43242129a84e
+Author: Rodrigo Cespedes <rodricesp.3.0@gmail.com>
+Date:   Fri May 1 22:46:53 2020 -0400
+
+    Commit de la caracteristica 4 release 1: La carne de la anvorguesa
+
+commit db182e27963daefeeb6e72a72e6866972b374e00
+Author: Rodrigo Cespedes <rodricesp.3.0@gmail.com>
+Date:   Fri May 1 22:44:24 2020 -0400
+
+    Commit de la caracteristica 3 release 1: El tomate de la anvorguesa
+
+commit e16c929a7d19672031dbe0ba410c7d196daff1a8
+Author: Rodrigo Cespedes <rodricesp.3.0@gmail.com>
+Date:   Fri May 1 22:41:56 2020 -0400
+
+    Commit de la caracteristica 2 release 1: La cebolla de la anvorguesa
+
+commit d610c8e791e15bce654181c7ed5df3999652df41
+Author: Rodrigo Cespedes <rodricesp.3.0@gmail.com>
+Date:   Fri May 1 22:38:33 2020 -0400
+
+    Commit de la caracteristica 1 release 1: El pan de la anvorguesa
+
+commit 5a62fbde18f3b7b05ae2430512fdbcd45f8fef44
+Merge: 3085fa5 06098db
+Author: Rodrigo Cespedes <rodricesp.3.0@gmail.com>
+Date:   Fri May 1 22:30:14 2020 -0400
+
+    Merge branch 'develop' into features
+    Comenzamos con el desarrollo de las caracteristicas
+
+commit 06098db951e2a4c4a5539faf775731ca09de2c32
+Author: Rodrigo Cespedes <rodricesp.3.0@gmail.com>
+Date:   Fri May 1 22:24:15 2020 -0400
+
+    Commit de las caracteristicas:
+
+commit 3085fa5476888ac8ac7f103457862672c43261bd
+Author: Rodrigo Cespedes <rodricesp.3.0@gmail.com>
+Date:   Fri May 1 22:04:54 2020 -0400
+
+    Initial doc ReadMe
