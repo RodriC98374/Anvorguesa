@@ -30,3 +30,14 @@
 
 `jamon`
 
+## Caractertistica 13 del release 2
+
+`mas pan`
+
+## Caractertistica 14 del release 2
+
+`gaseosa`
+
+## Caractertistica 15 del release 2
+
+`papas fritas`
