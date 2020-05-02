@@ -1,3 +1,3 @@
-# Caracteristica 4 del Release 0
+# Caracteristica 4 del Release 1
 
 `lechuga`
