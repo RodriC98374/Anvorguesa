@@ -36,8 +36,8 @@
 
 ## Caractertistica 14 del release 2
 
-`gaseosa`
+`gaseosa fria`
 
 ## Caractertistica 15 del release 2
 
-`papas fritas`
+`papas fritas calientes`
