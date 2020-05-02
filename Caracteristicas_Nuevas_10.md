@@ -1,3 +1,4 @@
+
 # 10 Caracteristicas para el siguiente release 2
 ---
 
@@ -8,5 +9,13 @@
 ## Caractertistica 7 del release 2
 
 `ketchup`
+
+## Caractertistica 8 del release 2
+
+`mostaza`
+
+## Caractertistica 9 del release 2
+
+`mas carne`
 
 
