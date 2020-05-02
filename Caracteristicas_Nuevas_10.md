@@ -41,3 +41,5 @@
 ## Caractertistica 15 del release 2
 
 `papas fritas calientes`
+
+`solucion del error que cierra inesperadamente la app`
